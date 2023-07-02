@@ -26,4 +26,4 @@
 ## GitHub
 
 1. https://github.com/khinoj/Module-1-Challenge
-2. Test
+2. https://khinoj.github.io/Module-1-Challenge/
