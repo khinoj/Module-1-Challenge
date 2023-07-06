@@ -20,7 +20,9 @@
 
 ## Screenshot
 
-<!-- ![](./images/image_1.PNG) -->
+<![](./assets/images/image_1.PNG)
+<![](./assets/images/image_2.PNG)
+<![](./assets/images/image_3.PNG)
 
 
 ## GitHub
